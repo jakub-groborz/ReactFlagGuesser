@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactFlagGuesser/static/css/main.fb701567.css",
+    "main.js": "/ReactFlagGuesser/static/js/main.bce909fb.js",
+    "static/js/787.075134c2.chunk.js": "/ReactFlagGuesser/static/js/787.075134c2.chunk.js",
+    "index.html": "/ReactFlagGuesser/index.html",
+    "main.fb701567.css.map": "/ReactFlagGuesser/static/css/main.fb701567.css.map",
+    "main.bce909fb.js.map": "/ReactFlagGuesser/static/js/main.bce909fb.js.map",
+    "787.075134c2.chunk.js.map": "/ReactFlagGuesser/static/js/787.075134c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb701567.css",
+    "static/js/main.bce909fb.js"
+  ]
+}
