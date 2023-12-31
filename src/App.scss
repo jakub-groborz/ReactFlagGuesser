@@ -1,0 +1,22 @@
+html {
+	background-color:rgb(148, 187, 233);
+}
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  width: 100vw;
+  height: 100dvh;
+}
+
+.App {
+	font-size: 30px;
+	background-color: red;
+  width: 90vw;
+  max-width: 600px;
+  height: 90dvh;
+  max-height: 600px;
+  background-color: rgba($color: #ffffff, $alpha: .4);
+  border-radius: 20px;
+}

@@ -1,0 +1,36 @@
+.game-wrapper {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	img {
+		height: 150px;
+        max-width: 100%;
+	}
+	span {
+		margin-top: 20px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 100%;
+	}
+	input {
+		height: 100%;
+		width: 90%;
+		margin-left: 10px;
+		font-size: 80%;
+		border: none;
+		background-color: rgba($color: #ffffff, $alpha: 0.5);
+		border-radius: 10px;
+		padding: 0;
+	}
+	button {
+		margin: 0 10px;
+	}
+}
+
+.loading {
+	text-align: center;
+}
